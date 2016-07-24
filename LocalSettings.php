@@ -2726,6 +2726,7 @@ $wgConf->settings = array(
 		'wikicervanteswiki' => "//$wmgUploadHostname/wikicervanteswiki/0/0c/LogodelWiki.png",
 		'wisdomwikiwiki' => "//$wmgUploadHostname/wisdomwikiwiki/0/02/WWlogo.png",
 		'wisdomsandboxwiki' => "//$wmgUploadHostname/wisdomsandboxwiki/b/be/Sandbox_Logo.png",
+		'writtenlandwiki' => "//$wmgUploadHostname/writtenlandwiki/5/5e/Document.png",
 		'yggdrasilwiki' => "//$wmgUploadHostname/yggdrasilwiki/c/cd/Yggdrasil-logo.png",
 	),
 
